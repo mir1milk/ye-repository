@@ -14,7 +14,7 @@ eslint와 prettier를 적용했고, emotion/styled를 활용하여 스타일링�
 ![demo2.gif](demo2.gif)
 
 js-confetti를 이용하여 귀여운 컨페티 기능을 넣었습니다.
-
+dddd
 
 
 ## 프로젝트 설치 및 실행 방법
