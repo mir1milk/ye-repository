@@ -51,6 +51,9 @@ function App() {
           {/* <GalleryWrap /> */}
         {/* </Wrapper> */}
         <Wrapper>
+          <Heading1>일 시</Heading1>
+        </Wrapper>
+        <Wrapper>
           <Heading1>마음 전하실 곳</Heading1>
           <Account />
         </Wrapper>
@@ -59,7 +62,7 @@ function App() {
           {/* <Location /> */}
         </Wrapper>
         <Wrapper>
-          <Heading1>신랑 신부에게</Heading1>
+          <Heading1>방명록</Heading1>
           <Guestbook />
         </Wrapper>
         <FloatingBar isVisible={isVisible} />

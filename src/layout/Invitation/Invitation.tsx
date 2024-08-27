@@ -14,7 +14,7 @@ const Invitation = () => {
       {/* TODO: 구글캘린더 추가하기 기능을 넣는다면 링크 수정 */}
       <RoundButton
         target="_blank"
-        href=""
+        href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXZvdWhybml0OGJyN2ZocmNjcWZyanVzbWQgODkwNzAxOGIwOTBkNDMwYjQ4ZDBjMjkwZGJmNDUxNTA1MDZhMDc5YjlkODVjZDI5MmVlMmY2OGJiNDQwODUyZEBn&tmsrc=8907018b090d430b48d0c290dbf45150506a079b9d85cd292ee2f68bb440852d%40group.calendar.google.com"
         rel="noreferrer">
         구글 캘린더 추가하기
       </RoundButton>
