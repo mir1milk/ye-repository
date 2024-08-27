@@ -51,9 +51,6 @@ function App() {
           {/* <GalleryWrap /> */}
         {/* </Wrapper> */}
         <Wrapper>
-          <Heading1>일 시</Heading1>
-        </Wrapper>
-        <Wrapper>
           <Heading1>마음 전하실 곳</Heading1>
           <Account />
         </Wrapper>

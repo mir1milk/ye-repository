@@ -46,7 +46,7 @@ const FloatingBar = ({ isVisible }: { isVisible: boolean }) => {
 
   const jsConfetti = new JSConfetti();
   const handleScroll = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 100, behavior: 'smooth' });
   };
 
   return (
