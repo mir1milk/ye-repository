@@ -46,10 +46,10 @@ function App() {
           <Heading1>모시는 글</Heading1>
           <Invitation />
         </Wrapper>
-        <Wrapper ref={galleryRef}>
+        {/* <Wrapper ref={galleryRef}>
           <Heading1>Gallery</Heading1>
           {/* <GalleryWrap /> */}
-        </Wrapper>
+        {/* </Wrapper> */}
         <Wrapper>
           <Heading1>마음 전하실 곳</Heading1>
           <Account />
